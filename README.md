@@ -26,4 +26,4 @@
    Go to [http://localhost:4200](http://localhost:4200) in your browser.
 
 > **Note:**  
-> Ensure your backend API is running at `https://localhost:7290/api/todo` as expected by
+> Ensure your backend API is running at `https://localhost:7290/api/todo` as expected
